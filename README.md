@@ -90,3 +90,12 @@ npm start
 ## 🔒 보안 및 기여 가이드
 - **데이터베이스(`.db`) 파일과 API 키가 든 `.env` 파일은 절대로 리포지토리에 푸시하지 마세요.** `.gitignore` 처리가 필수입니다.
 - 개발용 Dummy Data 설정 후 테스트하는 것을 권장합니다.
+
+---
+
+## 정량적 지표 시각화
+
+https://mind-step-apgk9jvwd-5252s-projects-3608d5fc.vercel.app
+
+
+
